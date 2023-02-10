@@ -4,8 +4,8 @@ export const authOptions = {
   // Configure one or more authentication providers
   providers: [
     GithubProvider({
-      clientId: "13c2bfdedb1958dd3468",
-      clientSecret: "a9e85c9fa8cc9492b7cc4ac500ff8e6ddc60b9e2",
+      clientId: "ae0c8525c1d4d3ff135b",
+      clientSecret: "e92cd54b2ba4f2d6b0f9774a2efb6091ae88164b",
     }),
     // ...add more providers here
   ],
