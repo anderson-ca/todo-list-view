@@ -5,7 +5,7 @@ export const authOptions = {
   providers: [
     GithubProvider({
       clientId: process.env.CLIENT_ID,
-      clientSecret: process.env.NEXT_PUBLIC_SECRET,
+      clientSecret: process.env.SECRET,
     }),
     // ...add more providers here
   ],
